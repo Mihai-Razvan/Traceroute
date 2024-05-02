@@ -1,0 +1,136 @@
+From home:
+
+- For 8.8.8.8 (google dns)
+
+1. 192.168.1.1 ----- Private address
+2. 10.0.0.1 ----- Private address
+3. 10.144.158.30 ----- Private address
+4. 10.220.153.20 ----- Private address
+5. 209.85.168.182 ----- Country: HU ----- Region: Budapest ----- City: Budapest
+6. 74.125.242.241 ----- Country: HU ----- Region: Budapest ----- City: Budapest
+7. 209.85.255.242 ----- Country: US ----- Region: California ----- City: Mountain View
+8. 8.8.8.8 ----- Country: US ----- Region: California ----- City: Mountain View
+
+
+-------------------------------------------------------------------------------------------------------------------------
+
+
+
+- For 104.200.22.130 (yahoo.com.au)
+
+1. 192.168.1.1 ----- Private address
+2. 10.0.0.1 ----- Private address
+3. 10.144.158.30 ----- Private address
+4. 10.220.187.195 ----- Private address
+5. 149.14.156.9 ----- Country: DE ----- Region: Hesse ----- City: Frankfurt am Main
+6. 154.54.61.157 ----- Country: GB ----- Region: England ----- City: London
+7. 62.115.123.13 ----- Country: FR ----- Region: Île-de-France ----- City: Paris
+8. 154.54.56.93 ----- Country: US ----- Region: Washington, D.C. ----- City: Washington
+9. 154.54.29.173 ----- Country: US ----- Region: Ohio ----- City: Brook Park
+10. 154.54.6.221 ----- Country: US ----- Region: Illinois ----- City: Chicago
+11. 23.203.152.40 ----- Country: US ----- Region: Virginia ----- City: Herndon
+12. 23.32.63.18 ----- Country: US ----- Region: Texas ----- City: Dallas
+13. 23.207.230.41 ----- Country: US ----- Region: Texas ----- City: Dallas
+14. 23.203.147.41 ----- Country: US ----- Region: Texas ----- City: Dallas
+15. 154.24.10.254 ----- Country: US ----- Region: Texas ----- City: Dallas
+16. 204.68.252.171 ----- Country: US ----- Region: Texas ----- City: Richardson
+17. 104.200.22.130 ----- Country: US ----- Region: Texas ----- City: Richardson
+
+
+
+---------------------------------------------------------------------------------------------------------------------
+
+
+
+- For 172.67.8.209 (ozbargain.com.au)
+
+1. 192.168.1.1 ----- Private address
+2. 10.0.0.1 ----- Private address
+3. 10.30.0.161 ----- Private address
+4. 10.220.149.25 ----- Private address
+5. 86.120.70.185 ----- Country: RO ----- Region: București ----- City: Bucharest
+6. 172.67.8.209 ----- Country: US ----- Region: California ----- City: San Francisco
+
+
+
+--------------------------------------------------------------------------------------------------------------------
+
+
+
+- For 142.250.189.227 (google.co.in)
+
+1. 192.168.1.1 ----- Private address
+2. 10.0.0.1 ----- Private address
+3. 10.144.158.30 ----- Private address
+4. 10.220.153.20 ----- Private address
+5. 209.85.168.182 ----- Country: HU ----- Region: Budapest ----- City: Budapest
+6. 74.125.242.247 ----- Country: HU ----- Region: Budapest ----- City: Budapest
+7. 142.251.77.193 ----- Country: US ----- Region: California ----- City: Mountain View
+8. 74.125.242.246 ----- Country: HU ----- Region: Budapest ----- City: Budapest
+9. 108.170.233.109 ----- Country: US ----- Region: California ----- City: Mountain View
+10. 142.251.64.253 ----- Country: US ----- Region: Virginia ----- City: Alexandria
+11. 142.250.238.93 ----- Country: US ----- Region: California ----- City: Mountain View
+12. 142.251.65.7 ----- Country: US ----- Region: Illinois ----- City: Chicago
+13. 142.251.67.134 ----- Country: US ----- Region: Illinois ----- City: Chicago
+14. 142.250.235.173 ----- Country: US ----- Region: Iowa ----- City: Des Moines
+15. 108.170.242.241 ----- Country: US ----- Region: California ----- City: San Jose
+16. 209.85.250.82 ----- Country: US ----- Region: California ----- City: San Jose
+17. 142.250.189.227 ----- Country: US ----- Region: California ----- City: San Francisco
+
+
+
+---------------------------------------------------------------------------------------------------------------------
+
+
+
+- For 106.10.248.150 (yahoo.in)
+
+1. 192.168.1.1 ----- Private address
+2. 10.0.0.1 ----- Private address
+3. 10.30.0.161 ----- Private address
+4. 10.220.187.205 ----- Private address
+5. 80.81.192.246 ----- Country: DE ----- Region: Hesse ----- City: Frankfurt am Main
+6. 202.84.178.53 ----- Country: GB ----- Region: England ----- City: London
+7. 202.84.143.157 ----- Country: SG ----- Region: Singapore ----- City: Singapore
+8. 202.84.140.141 ----- Country: SG ----- Region: Singapore ----- City: Singapore
+9. 210.176.138.23 ----- Country: SG ----- Region: Singapore ----- City: Singapore
+10. 210.57.30.101 ----- Country: SG ----- Region: Singapore ----- City: Singapore
+11. 106.10.128.7 ----- Country: SG ----- Region: Singapore ----- City: Singapore
+12. 106.10.128.9 ----- Country: SG ----- Region: Singapore ----- City: Singapore
+13. 106.10.128.240 ----- Country: SG ----- Region: Singapore ----- City: Singapore
+14. 106.10.128.240 ----- Country: SG ----- Region: Singapore ----- City: Singapore
+15. 106.10.248.150 ----- Country: SG ----- Region: Singapore ----- City: Singapore
+
+
+
+------------------------------------------------------------------------------------------------------------------
+
+
+
+- For 216.239.38.21 (timeslive.co.za)
+
+1. 192.168.1.1 ----- Private address
+2. 10.0.0.1 ----- Private address
+3. 10.30.0.161 ----- Private address
+4. 10.220.153.20 ----- Private address
+5. 209.85.168.182 ----- Country: HU ----- Region: Budapest ----- City: Budapest
+6. 74.125.242.241 ----- Country: HU ----- Region: Budapest ----- City: Budapest
+7. 172.253.65.37 ----- Country: HU ----- Region: Budapest ----- City: Budapest
+8. 216.239.38.21 ----- Country: US ----- Region: California ----- City: Mountain View
+
+
+
+----------------------------------------------------------------------------------------------------------------
+
+
+
+- For 104.22.46.73 (mybroadband.co.za)
+
+1. 192.168.1.1 ----- Private address
+2. 10.0.0.1 ----- Private address
+3. 10.30.0.161 ----- Private address
+4. 10.220.142.127 ----- Private address
+5. 86.120.70.185 ----- Country: RO ----- Region: București ----- City: Bucharest
+6. 104.22.46.73 ----- Country: US ----- Region: California ----- City: San Francisco
+
+
